@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MartinezeEdgar
+- 👀 I’m interested in Web Development (React, Vue, Angular, and Web3)
+- 🌱 I’m currently learning Blockchain technology
+- 💞️ I am open to new opportunities
+- 📫 How to reach me martinezedgar0920@gmail.com
